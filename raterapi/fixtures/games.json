@@ -1,0 +1,142 @@
+[
+    {
+        "model": "raterapi.game",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "title": "Strategic Conquerors",
+            "description": "A strategy game where players compete for global domination.",
+            "designer": "Ryan Tanay",
+            "year_released": "2018-06-15",
+            "number_of_players": 4,
+            "time_to_play": 90,
+            "age_restriction": 12
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 2,
+        "fields": {
+            "user": 1,
+            "title": "Cooperative Escape",
+            "description": "Solve puzzles together to escape the mysterious dungeon.",
+            "designer": "Ryan Tanay",
+            "year_released": "2016-12-05",
+            "number_of_players": 4,
+            "time_to_play": 75,
+            "age_restriction": 12
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 3,
+        "fields": {
+            "user": 2,
+            "title": "Dice of Fate",
+            "description": "Roll the dice and determine your destiny in this exciting game of chance.",
+            "designer": "Meg Ducharme",
+            "year_released": "2020-03-10",
+            "number_of_players": 6,
+            "time_to_play": 45,
+            "age_restriction": 10
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 4,
+        "fields": {
+            "user": 2,
+            "title": "Role-Playing Legends",
+            "description": "Create your own hero and embark on an epic journey.",
+            "designer": "Meg Ducharme",
+            "year_released": "2022-05-18",
+            "number_of_players": 6,
+            "time_to_play": 120,
+            "age_restriction": 15
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 5,
+        "fields": {
+            "user": 3,
+            "title": "Deck Duel",
+            "description": "Build your deck and outwit your opponents in this strategic card game.",
+            "designer": "Jenna Solis",
+            "year_released": "2015-11-20",
+            "number_of_players": 2,
+            "time_to_play": 30,
+            "age_restriction": 8
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 6,
+        "fields": {
+            "user": 4,
+            "title": "Miniature Warriors",
+            "description": "A tactical battle game with beautifully crafted miniature figures.",
+            "designer": "Bryan Nilson",
+            "year_released": "2019-09-05",
+            "number_of_players": 4,
+            "time_to_play": 120,
+            "age_restriction": 14
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 7,
+        "fields": {
+            "user": 4,
+            "title": "Battle Champions",
+            "description": "Compete in intense battles to prove your strength and strategy.",
+            "designer": "Bryan Nilson",
+            "year_released": "2017-02-14",
+            "number_of_players": 3,
+            "time_to_play": 50,
+            "age_restriction": 12
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 8,
+        "fields": {
+            "user": 5,
+            "title": "Fantasy Quest",
+            "description": "Embark on an adventure through mystical lands with your friends.",
+            "designer": "Emily Lemmon",
+            "year_released": "2021-07-22",
+            "number_of_players": 5,
+            "time_to_play": 60,
+            "age_restriction": 10
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 9,
+        "fields": {
+            "user": 6,
+            "title": "Sports Rivals",
+            "description": "Compete in various sports challenges with friends and family.",
+            "designer": "Tyler Hilliard",
+            "year_released": "2014-03-08",
+            "number_of_players": 8,
+            "time_to_play": 40,
+            "age_restriction": 7
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 10,
+        "fields": {
+            "user": 6,
+            "title": "Adventure Awaits",
+            "description": "Explore mysterious lands and uncover hidden treasures.",
+            "designer": "Tyler Hilliard",
+            "year_released": "2019-10-30",
+            "number_of_players": 5,
+            "time_to_play": 90,
+            "age_restriction": 13
+        }
+    }
+]
